@@ -37,7 +37,7 @@ Inside the folder, you should see:
 - In VS Code, go to the **Extensions Marketplace** (left sidebar).
 - Install **Java Extension Pack** (includes debugger, compiler support).
 - Make sure you have **JDK** installed (Java Development Kit).
-- To run in vscode, at top right corner of vscode, click the run buttn and it will automatically compile and run the program.
+- To run in vscode, at top right corner of vscode, click the run button and it will automatically compile and run the program.
 - output will appear in terminal/debug console.
   
   You can check by running in terminal:
