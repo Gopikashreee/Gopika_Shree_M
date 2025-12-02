@@ -12,16 +12,36 @@ Visual Studio Code (VS Code)
 - **Problem_03.java** → Generate modified odd series (pattern as per example)
 - **Problem_04.java** → Count multiples of 1–9 in given list
 
-## How to Run in VS Code
+---
 
-### 1. Install Requirements
-- Install [Java JDK](https://www.oracle.com/java/technologies/javase-downloads.html) (version 17 or later recommended).
-- Install [Visual Studio Code](https://code.visualstudio.com/).
-- In VS Code, install the **Java Extension Pack** (from Extensions Marketplace).
+#  Steps After Cloning
 
-### 2. Clone Repository
+## 1. Open the Project in VS Code
+- Open **Visual Studio Code**.
+- Go to **File → Open Folder**.
+- Select the cloned folder **Gopika_Shree_M**.
+
+---
+
+## 2. Check Your Files
+Inside the folder, you should see:
+- `Problem-1.java`
+- `Problem-2.java`
+- `Problem-3.java`
+- `Problem-4.java`
+- `README.md`
+
+---
+
+## 3. Install Java Extensions in VS Code
+- In VS Code, go to the **Extensions Marketplace** (left sidebar).
+- Install **Java Extension Pack** (includes debugger, compiler support).
+- Make sure you have **JDK** installed (Java Development Kit).  
+  You can check by running in terminal:
+
 ```bash
+java -version
+javac -version
 
-git clone https://github.com/Gopikashreee/Gopika_Shree_M.git
-cd Gopika_Shree_M
+
 
