@@ -20,3 +20,8 @@ Visual Studio Code (VS Code)
 - In VS Code, install the **Java Extension Pack** (from Extensions Marketplace).
 
 ### 2. Clone Repository
+```bash
+
+git clone https://github.com/Gopikashreee/Gopika_Shree_M.git
+cd Gopika_Shree_M
+
